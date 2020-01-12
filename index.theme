@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Windows 1.0
+Comment=Windows 1.0 UI for Linux OSes
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Windows 1.0
+MetacityTheme=Windows 1.0
+IconTheme=Windows 1.0
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close
